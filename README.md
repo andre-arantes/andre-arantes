@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm André Arantes</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andre-arantes" alt="andre-arantes" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andre-arantes" alt="andre-arantes" /></a> </p> -->
 
 - 🌱 Atualmente tenho me desenvolvido em: **JavaScript, C++, React**
 
