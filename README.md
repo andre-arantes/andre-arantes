@@ -9,8 +9,6 @@
 
 - 📫 Contato: **andre2004bh@gmail.com**
 
-- 🔗 *https://andre-arantes.github.io*
-
 ##
 ### Linguagens usadas/preferidas 
 <div style="display: inline_block"><br>
