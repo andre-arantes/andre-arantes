@@ -1,33 +1,15 @@
-# Hi👋, I'm André Arantes
+<h1 align="center"> Hi👋, I'm André Arantes </h1>
+<h3 align="center"> Contact: **andre2004bh@gmail.com** </h3>
 
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andre-arantes)
+### Most used/preferred languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,java,js,c" />
+  </a>
+</p>
 
-
-- 🌱 Atualmente tenho me desenvolvido em: **JavaScript, C++, React**
-
-- 📝 Frequentemente escrevo artigos sobre assuntos diversos em: [https://medium.com/@dedearantes](https://medium.com/@dedearantes)
-
-- 📫 Contato: **andre2004bh@gmail.com**
-
-##
-### Linguagens usadas/preferidas 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg">
-</div>
-
-##
-### Atualmente me desenvolvendo em
-<div style="display: inline_block">
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg">
-</div>
+### Learning 
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs)](https://skillicons.dev)
 
 
 ##
