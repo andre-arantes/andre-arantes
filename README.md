@@ -1,12 +1,9 @@
 <h1 align="center"> Hi👋, I'm André Arantes </h1>
-<h3 align="center"> Contact: **andre2004bh@gmail.com** </h3>
+<h3 align="center"> 📮 Contact: andre2004bh@gmail.com </h3>
 
 ### Most used/preferred languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,java,js,c" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=css,html,java,js,c)](https://skillicons.dev)
+
 
 ### Learning 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs)](https://skillicons.dev)
