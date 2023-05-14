@@ -2,7 +2,7 @@
 <h3 align="center"> 📮 Contact: andre2004bh@gmail.com </h3>
 
 ### Most used/preferred languages
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,java,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c)](https://skillicons.dev)
 
 
 ### Learning 
