@@ -14,4 +14,6 @@
   <div align="center" style="display: inline_block"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre-arantes&show_icons=true&theme=radical&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-arantes&layout=compact&theme=radical"/>
-</div>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=andre-arantes&label=Profile%20views&color=0e75b6&style=flat" alt="andre-arantes"/>
+</p>
