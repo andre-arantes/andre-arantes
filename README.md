@@ -9,8 +9,8 @@
 
 
 ### Learning 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,swift)](https://skillicons.dev)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andre-arantes&theme=dark&background=000000)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs)](https://skillicons.dev)
+
 
 ##
   <a href="https://github.com/andre-arantes">
