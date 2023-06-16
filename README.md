@@ -6,11 +6,11 @@
 
 ### Most used/preferred languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c)](https://skillicons.dev)
-
+https://github-readme-streak-stats.herokuapp.com/?user=gabrielokura&theme=dark&background=000000
 
 ### Learning 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,swift)](https://skillicons.dev)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andre-arantes&theme=dark&background=000000)
 
 ##
   <a href="https://github.com/andre-arantes">
