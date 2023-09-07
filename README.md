@@ -1,15 +1,15 @@
 <h1 align="center"> Hi👋, My name is André Arantes </h1>
 
-*   🧠  Currently learning React
-*   🤝  I'm open to collaborating on interesting projects as a developer
-*   📮  Contact: andre2004bh@gmail.com
+* 🧠  Currently learning React
+* 🤝  I'm open to collaborating on interesting projects as a developer
+* 📮  Contact: andre2004bh@gmail.com
 
 ### Most used/preferred languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,swift,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,java,c,swift,python)](https://skillicons.dev)
 
 
 ### Learning 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 
 
 ##
