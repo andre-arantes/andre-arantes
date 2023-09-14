@@ -5,7 +5,7 @@
 * 📮  Contact: andre2004bh@gmail.com
 
 ### Most used/preferred languages
-[![My Skills](https://skillicons.dev/icons?i=pyhton,html,css,js,ts,react,java,c,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,ts,react,java)](https://skillicons.dev)
 
 
 ### Learning 
