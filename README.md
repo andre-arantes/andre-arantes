@@ -5,11 +5,11 @@
 * 📮  Contact: andre2004bh@gmail.com
 
 ### Most used/preferred languages
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,ts,react,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,react,ts,js,react,html,css,java)](https://skillicons.dev)
 
 
 ### Learning 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,flutter,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,flutter,cs)](https://skillicons.dev)
 
 
 ##
