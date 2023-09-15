@@ -17,4 +17,4 @@
   <div align="center" style="display: inline_block"><br>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre-arantes&show_icons=true&theme=algolia&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-arantes&layout=compact&theme=algolia"/>
-  <a href = "mailto:andre2004bh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
