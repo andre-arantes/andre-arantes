@@ -9,7 +9,7 @@
 
 
 ### Learning 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,flutter,cs,ruby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,flutter,cs,rust)](https://skillicons.dev)
 
 
 ##
