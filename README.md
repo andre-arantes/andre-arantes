@@ -5,7 +5,7 @@
 
 
 ### Learning 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,flutter,cs,rust,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,rust)](https://skillicons.dev)
 
 <h2> How to contact me </h2>
 
