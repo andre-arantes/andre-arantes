@@ -2,10 +2,10 @@
 
 * 🧠  Currently learning Next.js
 * 🤝  I'm open to collaborating on interesting projects as a developer
-* 📮  Contact: andre2004bh@gmail.com
+* 📮  Contact: andrearantes.dev@gmail.com
 
 ### Most used/preferred languages
-[![My Skills](https://skillicons.dev/icons?i=py,react,ts,js,html,css,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,node,js,py,java,html,css)](https://skillicons.dev)
 
 
 ### Learning 
