@@ -5,7 +5,7 @@
 * 📮  Contact: andrearantes.dev@gmail.com
 
 ### Most used/preferred languages
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,js,py,java,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,js,py,java,html,css)](https://skillicons.dev)
 
 
 ### Learning 
