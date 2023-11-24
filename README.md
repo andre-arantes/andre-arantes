@@ -1,6 +1,6 @@
 <h1 align="center"> Hi👋, My name is André Arantes </h1>
 
-* 🧠  Currently learning Next.js
+* 🧠  Currently learning Golang
 * 🤝  I'm open to collaborating on interesting projects as a developer
 * 📮  Contact: andrearantes.dev@gmail.com
 
@@ -9,7 +9,7 @@
 
 
 ### Learning 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,flutter,cs,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,flutter,cs,rust,go)](https://skillicons.dev)
 
 
 ##
