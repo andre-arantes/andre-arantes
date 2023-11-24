@@ -1,7 +1,6 @@
 <h1 align="center"> Hi👋, My name is André Arantes </h1>
 
-* Currently learning Golang
-* Contact: andrearantes.dev@gmail.com
+Contact: andrearantes.dev@gmail.com
 
 ### Most used/preferred languages
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,js,py,java,html,css)](https://skillicons.dev)
