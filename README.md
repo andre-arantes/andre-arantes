@@ -7,4 +7,5 @@
 ### Learning 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,flutter,cs,rust,go)](https://skillicons.dev)
 
-### Contact: andrearantes.dev@gmail.com
+<h2 align="center"> How to contact me </h1>
+Email: andrearantes.dev@gmail.com
