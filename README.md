@@ -1,7 +1,7 @@
 <h1> Hi👋, My name is André Arantes </h1>
 
 ### Most used/preferred languages
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,js,py,java,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,js,react,py,java)](https://skillicons.dev)
 
 
 ### Learning 
