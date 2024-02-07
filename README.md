@@ -1,7 +1,7 @@
 # André Arantes
 Backend Developer
 
-[![Linkedin Badge](https://img.shields.io/badge/-Andre%Arantes-008881?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-arantes-lopes/)](https://www.linkedin.com/in/andre-arantes-lopes/) 
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-arantes-lopes/)](https://www.linkedin.com/in/andre-arantes-lopes/)
 [![Gmail Badge](https://img.shields.io/badge/-andrearantes.dev@gmail.com-008881?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrearantes.dev@gmail.com)](mailto:andrearantes.dev@gmail.com)
 
 ### Most used/preferred languages
