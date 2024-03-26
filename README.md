@@ -9,4 +9,4 @@ Backend Developer
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,js,react,py,java)](https://skillicons.dev)
 
 ### Learning 
-[![My Skills](https://skillicons.dev/icons?i=rust,ruby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,ruby,native,reactnative)](https://skillicons.dev)
