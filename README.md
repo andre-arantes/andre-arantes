@@ -6,7 +6,7 @@
 Backend Developer
 
 ### Most used/preferred languages
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,nodejs,react,graphql,sql)](https://skillicons.dev)
 
 ### Learning 
 [![My Skills](https://skillicons.dev/icons?i=docker,aws)](https://skillicons.dev)
